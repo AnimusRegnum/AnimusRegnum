@@ -1,0 +1,191 @@
+html {
+    scroll-behavior: smooth;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+#section1 {
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("../Site/andromeda.jpg");
+    position: relative;
+    background-size: cover;
+    width: 100%;
+}
+
+#section2 {
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("../Site/Polaris.jpg");
+    position: relative;
+    background-size: cover;
+    width: 100%;
+}
+#section3 {
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("../Site/Nemisis.jpg");
+    position: relative;
+    background-size: cover;
+    width: 100%;
+}
+#section4 {
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("../Site/sol.jpg");
+    position: relative;
+    background-size: cover;
+    width: 100%;
+} #section5 {
+      height: 100vh;
+      background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("../Site/Rigel.jpg");
+      position: relative;
+      background-size: cover;
+      width: 100%;
+  }
+#main1 {
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("../Site/arcturus.jpg");
+    position: relative;
+    background-size: cover;
+    width: 100%;
+}
+#main2 {
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("../Site/BETELGEUSE.jpg");
+    position: relative;
+    background-size: cover;
+    width: 100%;
+}
+#main3 {
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("../Site/mira.jpg");
+    position: relative;
+    background-size: cover;
+    width: 100%;
+}
+#main4 {
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("../Site/alpha centauri.jpg");
+    position: relative;
+    background-size: cover;
+    width: 100%;
+}
+#main5 {
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("../Site/Vega.jpg");
+    position: relative;
+    background-size: cover;
+    width: 100%;
+}
+#main6 {
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("../Site/Sirius.jpg");
+    position: relative;
+    background-size: cover;
+    width: 100%;
+}
+#lore {
+
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("../Site/Test0001.jpg");
+    position: relative;
+    background-size: cover;
+    width: 100%;
+}
+.logoBox {
+    top: 20px;
+    position: absolute;
+    height: 150px;
+    width: 250px;
+    padding: 10px;
+    /*border: 3px solid blue;
+*/
+}
+.logoBox p{
+    color: white;
+    font-size: 52px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.left {
+    white-space: initial;
+    word-wrap: break-word;
+    overflow: hidden;
+    position: absolute;
+    height: 75vh;
+    width: 80vh;
+    padding: 10px;
+    hyphens: auto;
+
+}
+.right {
+    white-space: initial;
+    word-wrap: break-word;
+    overflow: hidden;
+    position: absolute;
+    height: 75vh;
+    width: 80vh;
+    padding: 10px;
+    hyphens: auto;
+    right: 10px;
+
+}
+.rightCorner {
+    white-space: initial;
+    word-wrap: break-word;
+    overflow: hidden;
+    position: absolute;
+    height: 80px;
+    width: 280px;
+    padding: 10px;
+    hyphens: auto;
+    right: 10px;
+    bottom: 10px
+}
+.rightCornerBig {
+    white-space: initial;
+    word-wrap: break-word;
+    overflow: hidden;
+    position: absolute;
+    height: 200px;
+    width: 280px;
+    padding: 10px;
+    hyphens: auto;
+    right: 20px;
+    bottom: 10px;
+}
+hr.whiteLore {
+    border: 2.5px solid white;
+}
+.contentBox {
+    white-space: normal;
+    overflow: hidden;
+    top: 140px;
+    position: absolute;
+    height: 80vh;
+    width: 1800px;
+    padding: 10px;
+
+}
+.contentBox p{
+    color: white;
+    text-transform: uppercase;
+    font-size: 18px;
+    line-height: 24px;
+}
+.contentBoxLore {
+    white-space: normal;
+    overflow: hidden;
+    top: 220px;
+    position: absolute;
+    height: 75vh;
+    width: 1800px;
+    padding: 10px;
+
+}
+.contentBoxLore p{
+    text-transform: uppercase;
+    font-size: 18px;
+    line-height: 24px;
+}
