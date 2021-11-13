@@ -49,7 +49,7 @@ function App() {
            <div>
             <div className="card">
                 <div className="photo"
-                     style={{backgroundImage: 'url("assets/Site/abol.jpg")'}}></div>
+                     style={{backgroundImage: 'url("assets/Site/effico.jpg")'}}></div>
                 <div className="banner"></div>
                 <ul>
                     <li><b>Efficio Ignis Vitae</b></li>
@@ -57,12 +57,7 @@ function App() {
 
                 </ul>
                 <div className="social-media-banner">
-                    <a href="https://twitter.com/arab_eth" target="_blank"><i className="fa fa-twitter"></i></a>
-                    <a href="mail:inbox@abolfazl.de" target="_blank"><i className="glyphicon glyphicon-envelope"
-                                                                        style={{fontSize: '20px'}}></i></a>
-                    <a href="https://www.instagram.com/abo._.l/" target="_blank"><i className="fa fa-instagram"></i></a>
-                    <a href="https://www.linkedin.com/in/abolfazl-arab/" target="_blank"><i
-                        className="fa fa-linkedin"></i></a>
+                    <a href="https://efficio.carrd.co/" target="_blank"><i className="glyphicon glyphicon-globe" style={{fontSize: '20px'}}></i></a>
                 </div>
             </div>
             <div className="card">
@@ -72,7 +67,6 @@ function App() {
                 <ul>
                     <li><b>Abolfazl Arab</b></li>
                     <li>Blockchain Developer</li>
-
                 </ul>
                 <div className="social-media-banner">
                     <a href="https://twitter.com/arab_eth" target="_blank"><i className="fa fa-twitter"></i></a>
